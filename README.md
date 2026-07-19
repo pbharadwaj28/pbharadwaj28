@@ -1,7 +1,7 @@
 ## About Me
 Hi there 👋 I'm Prajwal Bharadwaj!
 
-I'm a Ph.D. candidate in Solid Mechanics at **Worcester Polytechnic Institute**, working at the intersection of **solid mechanics and engineering design**. My research focuses on accelerating the discovery of metamaterial architectures with novel dynamic behavior using a hybrid framework that couples conventional experimental and computational solid mechanics with SoTA AI/ML techniques.
+I'm a Ph.D. candidate in Solid Mechanics at Worcester Polytechnic Institute, working at the intersection of solid mechanics and engineering design. My research focuses on accelerating the discovery of metamaterial architectures with novel dynamic behavior using a hybrid framework that couples conventional experimental and computational solid mechanics with SoTA AI/ML techniques.
 ---
 
 ## 🛠️ Software
